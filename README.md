@@ -1,5 +1,5 @@
 # ISS-3D-keypoints
-Some working examples of keypoint detection algorithm using Point Cloud Library (PCL).
+Some working example of keypoint detection algorithm using Point Cloud Library (PCL).
 
 ISSKeypoint3D detects the Intrinsic Shape Signatures keypoints for a given point cloud.
 This class is based on a particular implementation made by Federico Tombari and Samuele Salti and it has been explicitly adapted to PCL.
